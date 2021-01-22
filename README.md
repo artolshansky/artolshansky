@@ -2,7 +2,10 @@
 
 [![website](https://img.shields.io/website?label=olshansky.github.io&style=flat&url=https%3A%2F%2Folshansky.github.io)](https://olshansky.github.io) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-artolshansky-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artolshansky/)](https://www.linkedin.com/in/artolshansky/) &nbsp;
+[![Instagram](https://img.shields.io/badge/-artolshansky-0072b1?style=flat&color=3A32F1&logoColor=white&logo=Instagram&link=https://www.instagram.com/artolshansky/)](https://www.instagram.com/artolshansky/) &nbsp;
+[![StackOverflow](https://img.shields.io/badge/-artolshansky-0072b?style=flat&color=F48225&logoColor=white&logo=Stackoverflow&link=https://stackoverflow.com/users/story/8368358)](https://stackoverflow.com/users/story/8368358) &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/artolshansky?color=1DA1F2&logo=twitter&logoColor=white&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Folshansky&screen_name=artolshansky)
+
 
 
 ### Actual info about me
