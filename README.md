@@ -2,7 +2,7 @@
 
 [![website](https://img.shields.io/website?label=olshansky.github.io&style=flat&url=https%3A%2F%2Folshansky.github.io)](https://olshansky.github.io) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-artolshansky-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artolshansky/)](https://www.linkedin.com/in/artolshansky/) &nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/artolshansky?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Folshansky&screen_name=artolshansky)
+[![Twitter Follow](https://img.shields.io/twitter/follow/artolshansky?color=1DA1F2&logo=twitter&logoColor=white&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Folshansky&screen_name=artolshansky)
 
 
 ### Actual info about me
