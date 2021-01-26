@@ -13,15 +13,6 @@
 - 🌱 I’m currently learning everythingthat I meet on my way
 - 🤝 I've contributed to [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp), [@types](https://github.com/DefinitelyTyped/DefinitelyTyped), [grafana](https://github.com/grafana/grafana), [xLayers](https://github.com/xlayers/xlayers), [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap), [ngx-uploader](https://github.com/bleenco/ngx-uploader), [fundamental-ngx](https://github.com/SAP/fundamental-ngx), [fundamental-styles](https://github.com/SAP/fundamental-styles), etc.
 
-
-### Connect with me
-
-[<img align="left" width="22px" alt="olshansky.github.io" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" alt="artolshansky | Stackoverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" width="22px" alt="artolshansky | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" alt="artolshansky | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" alt="artolshansky | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 </br>
 
 ### 📕 Publications
